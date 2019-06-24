@@ -1,0 +1,58 @@
+[
+  {
+    "place": "Murtala Mohammed International Airport",
+    "state": "Lagos",
+    "latitude": 6.5718,
+    "longitude": 3.3241,
+    "image": "https://dailypost.ng/wp-content/uploads/2012/08/MMA.jpg"
+  },
+  {
+    "place": "Nnamdi Azikiwe International Airport",
+    "state": "Abuja",
+    "latitude": 9.004,
+    "longitude": 7.2691,
+    "image": "https://guardian.ng/wp-content/uploads/2017/01/Nnamdi-Azikiwe-Airport.jpg"
+  },
+  {
+    "place": "Akanu Ibiam International Airport",
+    "state": "Enugu",
+    "latitude": 6.459964,
+    "longitude": 7.548949,
+    "image": "https://govandbusinessjournal.com.ng/wp-content/uploads/2018/01/Akanu-Ibiam-International-Airport-Enugu.jpg"
+  },
+  {
+    "place": "Ilorin International Airport",
+    "state": "Ilorin",
+    "latitude": 8.4354,
+    "longitude": 4.495,
+    "image": "https://www.naijanews.com/wp-content/uploads/2018/06/ilorin-international-airport-nigeria-2.jpg"
+  },
+  {
+    "place": "Kaduna International Airport",
+    "state": "Kaduna",
+    "latitude": 10.6941,
+    "longitude": 7.3231,
+    "image": "https://oshlookman.files.wordpress.com/2015/04/kaduna-airport_nig_5.jpg"
+  },
+  {
+    "place": "Mallam Aminu Kano International Airport",
+    "state": "Kano",
+    "latitude": 12.0456,
+    "longitude": 8.5221,
+    "image": "https://i1.wp.com/www.faan.gov.ng/wp-content/uploads/2016/11/kano-airport-3.jpg"
+  },
+  {
+    "place": "Port Harcourt International Airport",
+    "state": "Rivers",
+    "latitude": 5.0075,
+    "longitude": 6.9502,
+    "image": "https://secureservercdn.net/104.238.71.140/954.6d7.myftpupload.com/wp-content/uploads/2019/06/Port-Harcourt-International-Airport.jpg"
+  },
+  {
+    "place": "Sadiq Abubakar III International Airport",
+    "state": "Sokoto",
+    "latitude": 12.9177,
+    "longitude": 5.1991,
+    "image": "https://i0.wp.com/www.faan.gov.ng/wp-content/uploads/2017/02/Sokoto-Airport.jpg"
+  }
+]
